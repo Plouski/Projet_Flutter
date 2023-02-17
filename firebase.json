@@ -1,0 +1,8 @@
+{
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "origin": ["*"],
+  "method": ["GET"],
+  "maxAgeSeconds": 3600
+}

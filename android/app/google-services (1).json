@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396063305758",
+    "firebase_url": "https://fir-flutter-repairbike-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-flutter-repairbike",
+    "storage_bucket": "fir-flutter-repairbike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396063305758:android:617fb549db4c5dad4cbe0f",
+        "android_client_info": {
+          "package_name": "com.example.repairbike_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396063305758-6aa3uslo6kgbcrpdqqo41ub3ldmnggvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZblQj4wVfgHiz2hli-GQ_Y45B412D0dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396063305758-6aa3uslo6kgbcrpdqqo41ub3ldmnggvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396063305758-cnc07jstff40qs0ke8phb1367jprefmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
